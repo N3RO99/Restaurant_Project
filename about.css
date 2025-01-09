@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 #about h2 {
     font-size: 3em;
-    margin-bottom: 20px;
+    margin-bottom:60px;
 }
 
 .about-container {
@@ -102,11 +102,12 @@ nav ul li a:hover {
 
 .values-text {
     font-size: 1.2em;
-    text-align: left;
+    text-align: center;
 }
 
 .values-image {
     max-width: 100%;
+    margin-top: 30px;
 }
 
 .values-image img {
